@@ -47,5 +47,12 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "VAZ2106",
+        "image": "VAZ2106.jpg",
+        "description": "Best car in the World(No)",
+        "price": 2000.00
     }
 ]
